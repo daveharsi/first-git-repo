@@ -1,2 +1,4 @@
-# first-git-repo
-my first git repo
+# First Git Repo
+our first command is `git clone`
+
+out second command is `git status`
